@@ -94,7 +94,7 @@
 
 | Project | Highlights & Stack | Details |
 |---|---|---|
-| **[Enterprise GenAI Strategy Engine](https://github.com/vaibhav007-star/Enterprise-GenAI-Strategy-Engine-RAG-Stack-)** | `Python` `FastAPI` `RAG` `SEC 10-K` | Enterprise intelligence platform powered by real SEC Form 10-K filings, advanced RAG retrieval, and strategic playbooks. |
+| **[Enterprise GenAI Strategy Engine](https://github.com/vaibhav007-star/Enterprise-GenAI-Strategy-Engine-RAG-Stack-)** <br> ([🚀 Live Demo](https://enterprise-genai-strategy-engine.vercel.app)) | `FastAPI` `RAG` `Vercel` `SEC 10-K` | Enterprise intelligence platform powered by real SEC Form 10-K filings, advanced RAG retrieval, and strategic playbooks. |
 | **[HomeMind — Multi-Agent AI System](https://github.com/vaibhav007-star/HomeMind-Multi-Agent-AI-Home-Management-System)** | `Python` `Multi-Agent` `LangGraph` | Autonomous home intelligence architecture where 5 specialized agents collaboratively reason, plan, and execute decisions. |
 | **[Google Flow Video Automation](https://github.com/vaibhav007-star/YT-Automation-Using-Flow-Agent)** | `Python 3.12` `Playwright` `Streamlit` | Resilient browser-orchestration pipeline for automated Google Flow video synthesis, batch scheduling, and archiving. |
 | **[LinkedIn AI Agent](https://github.com/vaibhav007-star/linkedin-ai-agent)** | `Python` `NLP` `Autonomous Agents` | Autonomous content agent that curates industry AI news, synthesizes insights, and creates publication-ready posts. |
