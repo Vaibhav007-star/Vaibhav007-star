@@ -118,6 +118,7 @@
 
 | Project | Highlights & Stack | Details |
 |---|---|---|
+| **[Dynamic B2B Pricing Engine](https://github.com/Vaibhav007-star/Dynamic-B2B-E-Commerce-Pricing-Demand-Optimization-Engine)** <br> ([🚀 Live Demo](https://dynamic-b2b-pricing-engine.vercel.app)) | `FastAPI` `Dynamic Pricing` `Vercel` `Elasticity` | Wholesale demand forecasting and profit-maximizing dynamic pricing engine with +£26.8k (+14.4%) gross profit uplift, margin floor guardrails, and executive what-if simulation. |
 | **[RecoSphere AI](https://github.com/Vaibhav007-star/RecoSphere-AI-Two-Tower-Recommendation-Platform)** <br> ([🚀 Live Demo](https://recosphere-ai.vercel.app)) | `FastAPI` `PyTorch` `Vercel` `Two-Tower` | Production two-tower recommendation engine with sub-5ms vector candidate retrieval, multi-objective ranking, MMR diversification, and Monte-Carlo A/B experimentation simulator. |
 | **[Brokerage Intelligence](https://github.com/vaibhav007-star/Brokerage-Intelligence)** | `Python 3.12` `Tableau Public` `SQL` | BI-driven stock trading & market activity analytics platform extracting granular trends and visual execution metrics. |
 | **[Land Acquisition Delay Predictor](https://github.com/vaibhav007-star/Predictive-Analytics-System-for-Early-Detection-of-Land-Acquisition-Delays)** | `FastAPI` `Machine Learning` `SIH` | Smart India Hackathon predictive analytics engine detecting early warning signals in infrastructure and land acquisition. |
