@@ -94,9 +94,10 @@
 
 | Project | Highlights & Stack | Details |
 |---|---|---|
+| **[InsightFlow AI — Multi-Agent Data Analyst](https://github.com/vaibhav007-star/InsightFlow-AI-Multi-Agent-Data-Analyst)** <br> ([🚀 Live Demo](https://insightflow-ai-beta-bice.vercel.app)) | `Gemini 2.5 Flash` `Multi-Agent` `NL2SQL` `FastAPI` `React` | Production-grade 8-agent NL2SQL, interactive visualization & BI platform with automated schema discovery and real-time query repair. |
 | **[Enterprise GenAI Strategy Engine](https://github.com/vaibhav007-star/Enterprise-GenAI-Strategy-Engine-RAG-Stack-)** <br> ([🚀 Live Demo](https://enterprise-genai-strategy-engine.vercel.app)) | `FastAPI` `RAG` `Vercel` `SEC 10-K` | Enterprise intelligence platform powered by real SEC Form 10-K filings, advanced RAG retrieval, and strategic playbooks. |
 | **[HomeMind — Multi-Agent AI System](https://github.com/vaibhav007-star/HomeMind-Multi-Agent-AI-Home-Management-System)** | `Python` `Multi-Agent` `LangGraph` | Autonomous home intelligence architecture where 5 specialized agents collaboratively reason, plan, and execute decisions. |
-| **[Google Flow Video Automation](https://github.com/vaibhav007-star/YT-Automation-Using-Flow-Agent)** | `Python 3.12` `Playwright` `Streamlit` | Resilient browser-orchestration pipeline for automated Google Flow video synthesis, batch scheduling, and archiving. |
+| **[Google Flow Video Automation](https://github.com/vaibhav007-star/Google-Flow-Shorts-Automation)** | `Python 3.12` `Playwright` `Streamlit` | Resilient browser-orchestration pipeline for automated Google Flow video synthesis, batch scheduling, and archiving. |
 | **[LinkedIn AI Agent](https://github.com/vaibhav007-star/linkedin-ai-agent)** | `Python` `NLP` `Autonomous Agents` | Autonomous content agent that curates industry AI news, synthesizes insights, and creates publication-ready posts. |
 | **[Sequential LangGraph AI](https://github.com/vaibhav007-star/Sequential_langgraph_ai)** | `Python` `LangGraph` `StateGraph` | Structured multi-step agentic graph experimenting with conditional routing and persistent memory. |
 
@@ -106,24 +107,27 @@
 
 | Project | Highlights & Stack | Details |
 |---|---|---|
+| **[Clinical Copilot — Multimodal Healthcare AI](https://github.com/vaibhav007-star/Clinical-Copilot-Multimodal-Healthcare-AI)** <br> ([🚀 Live Demo](https://clinical-copilot-healthcare-ai.vercel.app)) | `PyTorch` `DenseNet121` `Grad-CAM` `FAISS` `FastAPI` | Multimodal clinical decision-support copilot unifying Chest X-Ray analysis, patient risk scoring, and RAG guidelines. |
+| **[FIRECAST AI — Wildfire Forecasting](https://github.com/vaibhav007-star/Deep-Wildfire-Progression-Intensity-Forecasting)** | `PyTorch 2.6` `Spatio-Temporal DL` `Satellite RS` | Deep spatio-temporal neural forecasting system predicting wildfire spread vectors, burn perimeter contours, and flame intensity. |
 | **[Chest X-Ray Pneumonia Detector](https://github.com/vaibhav007-star/Chest-X-Ray-Pneumonia-Detector-with-Explainability)** | `PyTorch 2.5` `CUDA` `Grad-CAM` `Streamlit` | Deep learning radiological diagnostic tool featuring Grad-CAM explainable saliency heatmaps for clinical validation. |
-| **[SmartTriage AI](https://github.com/vaibhav007-star/Smarttriage_ai)** | `Python` `Clinical ML` `Decision Support` | Emergency Room decision-support engine predicting ICU admission risk from early vitals with automated clinical briefings. |
+| **[SmartTriage AI](https://github.com/vaibhav007-star/Smarttriage_ai)** <br> ([🚀 Live Demo](https://smarttriageai.vercel.app)) | `Python` `Clinical ML` `Decision Support` | Emergency Room decision-support engine predicting ICU admission risk from early vitals with automated clinical briefings. |
 | **[AgriVision Agent](https://github.com/vaibhav007-star/AgriVision-Agent)** | `TensorFlow` `PyTorch` `Agentic Vision` | Autonomous crop disease detection, diagnosis, and actionable agricultural recommendation system. |
-| **[Deepfake Shield](https://github.com/vaibhav007-star/Deepfake-Shield)** | `TypeScript` `Node.js` `Media Provenance` | Decentralized media provenance pipeline engineered to detect synthetic manipulation and verify media authenticity. |
 | **[Watermark Remover AI](https://github.com/vaibhav007-star/watermark-remover-ai)** | `YOLOv8` `PyTorch` `OpenCV` | Automatic deep learning watermark detection and seamless image inpainting with GPU acceleration support. |
 
 ---
 
-### 📊 Data Science, Analytics & Predictive Systems
+### 📊 Data Science, Logistics & Predictive Systems
 
 | Project | Highlights & Stack | Details |
 |---|---|---|
+| **[Supply Chain Risk Control Tower](https://github.com/vaibhav007-star/supply-chain-risk-control-tower)** <br> ([🚀 Live Demo](https://supply-chain-risk-control-tower.vercel.app)) | `Python` `FastAPI` `Streamlit` `SHAP` `MLOps` | Production-grade logistics delay & risk predictor with calibrated probabilities, SHAP root cause attribution, and interactive control tower. |
+| **[FlavorGen AI — Chemoinformatics ML](https://github.com/vaibhav007-star/FlavorGen-AI)** <br> ([🚀 Live Demo](https://flavorgen-ai.vercel.app)) | `Chemoinformatics` `Olfaction ML` `FastAPI` `React` | AI flavor & fragrance synthesis platform integrating multimodal chemoinformatics, molecular embeddings, and IoT dispenser telemetry. |
 | **[Dynamic B2B Pricing Engine](https://github.com/Vaibhav007-star/Dynamic-B2B-E-Commerce-Pricing-Demand-Optimization-Engine)** <br> ([🚀 Live Demo](https://dynamic-b2b-pricing-engine.vercel.app)) | `FastAPI` `Dynamic Pricing` `Vercel` `Elasticity` | Wholesale demand forecasting and profit-maximizing dynamic pricing engine with +£26.8k (+14.4%) gross profit uplift, margin floor guardrails, and executive what-if simulation. |
 | **[RecoSphere AI](https://github.com/Vaibhav007-star/RecoSphere-AI-Two-Tower-Recommendation-Platform)** <br> ([🚀 Live Demo](https://recosphere-ai.vercel.app)) | `FastAPI` `PyTorch` `Vercel` `Two-Tower` | Production two-tower recommendation engine with sub-5ms vector candidate retrieval, multi-objective ranking, MMR diversification, and Monte-Carlo A/B experimentation simulator. |
+| **[Urban Heat Island Mitigation Platform](https://github.com/vaibhav007-star/Urban-Heat-Islands)** | `PyTorch` `Semantic Segmentation` `Climate Tech` | AI platform utilizing satellite imagery segmentation and deep regression to model and mitigate urban thermal microclimates. |
+| **[Land Acquisition Delay Predictor](https://github.com/vaibhav007-star/Predictive-Analytics-System-for-Early-Detection-of-Land-Acquisition-Delays)** <br> ([🚀 Live Demo](https://predictive-analytics-system-for-ear.vercel.app)) | `FastAPI` `Machine Learning` `SIH` | Smart India Hackathon predictive analytics engine detecting early warning signals in infrastructure and land acquisition. |
 | **[Brokerage Intelligence](https://github.com/vaibhav007-star/Brokerage-Intelligence)** | `Python 3.12` `Tableau Public` `SQL` | BI-driven stock trading & market activity analytics platform extracting granular trends and visual execution metrics. |
-| **[Land Acquisition Delay Predictor](https://github.com/vaibhav007-star/Predictive-Analytics-System-for-Early-Detection-of-Land-Acquisition-Delays)** | `FastAPI` `Machine Learning` `SIH` | Smart India Hackathon predictive analytics engine detecting early warning signals in infrastructure and land acquisition. |
 | **[Mortgage Credit Risk System](https://github.com/vaibhav007-star/mortgage_credit_risk_project)** | `Python` `Scikit-Learn` `Financial ML` | Comprehensive credit scoring and risk classification pipeline for mortgage loan default probabilities. |
-| **[Universal Log Pre-processing Framework](https://github.com/vaibhav007-star/Universal-Log-Pre-processing-Framework)** | `Python` `Data Pipelines` `ETL` | Modular, high-throughput log ingestion and normalization pipeline for telemetry and diagnostics. |
 
 ---
 
