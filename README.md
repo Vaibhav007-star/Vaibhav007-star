@@ -208,13 +208,13 @@ flowchart LR
 <summary><b>🧠 Deep Learning Laboratory Coursework (Click to expand)</b></summary>
 <br>
 
-- [Deep-Learning-Lab-1](https://github.com/vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Lab-1) — Foundations of Neural Architectures
-- [Deep-Learning-Lab-2](https://github.com/vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Lab-2) — Multilayer Perceptrons & Backpropagation
-- [Deep-Learning-Lab-3](https://github.com/vaibhav007-star/Deep-Learning-Lab-3) — Convolutional Neural Networks (CNNs)
-- [Deep-Learning-Lab-4](https://github.com/vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Lab-4) — Transfer Learning & Feature Extraction
-- [Deep-Learning-Lab-5](https://github.com/vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Lab-5) — Sequence Models & Recurrent Networks
-- [Deep-Learning-Lab-6](https://github.com/vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Lab-6) — Attention Mechanisms & Transformers
-- [Deep-Learning-Lab-7](https://github.com/vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Lab-7) — Generative Models & Advanced Architectures
+- [Deep-Learning-Lab-1](https://github.com/Vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Labs/tree/main/Lab-01-Perceptron-Irrigation-Decision) — Irrigation Decision Automation (Single-Layer Perceptron, Step Function)
+- [Deep-Learning-Lab-2](https://github.com/Vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Labs/tree/main/Lab-02-Single-Neuron-Perceptron-Loan-Approval) — Loan Approval Classifier (Single-Neuron Perceptron, Weight Updates)
+- [Deep-Learning-Lab-3](https://github.com/Vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Labs/tree/main/Lab-03-Feedforward-NN-PyTorch) — Feedforward Neural Network in PyTorch (`nn.Module`, Backpropagation, SGD/Adam)
+- [Deep-Learning-Lab-4](https://github.com/Vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Labs/tree/main/Lab-04-Keras-MLP-Multiclass-Classification) — Iris Flower Multiclass Classification (Keras MLP, Softmax)
+- [Deep-Learning-Lab-5](https://github.com/Vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Labs/tree/main/Lab-05-CNN-Binary-Classification-CIFAR10) — Binary Image Classification (CNN Architecture, Conv2D, MaxPooling, CIFAR-10)
+- [Deep-Learning-Lab-6](https://github.com/Vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Labs/tree/main/Lab-06-Keras-MLP-Regression) — Deep MLP Regression on California Housing (Activation & Loss Analysis)
+- [Deep-Learning-Lab-7](https://github.com/Vaibhav007-star/Artificial-Neural-Networks-and-Deep-Learning-Labs/tree/main/Lab-07-Keras-MLP-Multiclass-Classification) — Multiclass Keras MLP on Wine Cultivars (ReLU/Sigmoid/Tanh & SGD/Adam/RMSprop)
 
 </details>
 
